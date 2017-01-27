@@ -1,0 +1,6 @@
+auth.R
+.httr-oauth
+.RData
+.Rhistory
+*.Rproj
+*.user
